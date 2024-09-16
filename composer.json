@@ -11,15 +11,15 @@
     "prefer-stable": true,
     "require": {
         "php": "~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0",
-        "diablomedia/zendframework1-currency": "^1.0.4",
-        "diablomedia/zendframework1-exception": "^1.1.1",
-        "diablomedia/zendframework1-filter": "^1.0.6",
-        "diablomedia/zendframework1-http": "^1.0.5",
-        "diablomedia/zendframework1-json": "^1.0.7",
-        "diablomedia/zendframework1-loader": "^1.0.5",
-        "diablomedia/zendframework1-locale": "^1.0.6",
-        "diablomedia/zendframework1-registry": "^1.0.5",
-        "diablomedia/zendframework1-translate": "^1.0.5"
+        "fragotesac/zf1-currency": "^1.0.4",
+        "fragotesac/zf1-exception": "^1.1.1",
+        "fragotesac/zf1-filter": "^1.0.6",
+        "fragotesac/zf1-http": "^1.0.5",
+        "fragotesac/zf1-json": "^1.0.7",
+        "fragotesac/zf1-loader": "^1.0.5",
+        "fragotesac/zf1-locale": "^1.0.6",
+        "fragotesac/zf1-registry": "^1.0.5",
+        "fragotesac/zf1-translate": "^1.0.5"
     },
     "autoload": {
         "psr-0": {
@@ -56,13 +56,13 @@
         "style-check": "php-cs-fixer fix --dry-run -vv"
     },
     "suggest": {
-        "diablomedia/zendframework1-view-helper-paginationcontrol": "For the PaginationControl View Helper",
-        "diablomedia/zendframework1-view-helper-navigation": "For the Navigation View Helper",
-        "diablomedia/zendframework1-view-helper-layout": "For the Layout View Helper",
-        "diablomedia/zendframework1-view-helper-action": "For the Action View Helper",
-        "diablomedia/zendframework1-view-helper-partial": "For the Partial and PartialLoop View Helpers",
-        "diablomedia/zendframework1-view-helper-url": "For the Url View Helper",
-        "diablomedia/zendframework1-view-helper-baseurl": "For the BaseUrl View Helper",
+        "fragotesac/zf1-view-helper-paginationcontrol": "For the PaginationControl View Helper",
+        "fragotesac/zf1-view-helper-navigation": "For the Navigation View Helper",
+        "fragotesac/zf1-view-helper-layout": "For the Layout View Helper",
+        "fragotesac/zf1-view-helper-action": "For the Action View Helper",
+        "fragotesac/zf1-view-helper-partial": "For the Partial and PartialLoop View Helpers",
+        "fragotesac/zf1-view-helper-url": "For the Url View Helper",
+        "fragotesac/zf1-view-helper-baseurl": "For the BaseUrl View Helper",
         "ext-filter": "Used in the HeadScript View Helper"
     },
     "config": {
